@@ -1,0 +1,48 @@
+[27-Feb-2013 09:28:24] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/CSV.php on line 36
+[27-Feb-2013 11:48:16] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/HTML.php on line 36
+[27-Feb-2013 14:51:48] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel5.php on line 36
+[27-Feb-2013 18:09:06] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/CSV.php on line 36
+[27-Feb-2013 18:27:37] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/CSV.php on line 36
+[27-Feb-2013 19:32:19] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/HTML.php on line 36
+[27-Feb-2013 23:21:08] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel5.php on line 36
+[28-Feb-2013 04:06:14] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/CSV.php on line 36
+[28-Feb-2013 07:43:05] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/HTML.php on line 36
+[28-Feb-2013 13:09:12] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel5.php on line 36
+[01-Mar-2013 01:03:12] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel2007.php on line 36
+[01-Mar-2013 11:33:44] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel2007.php on line 36
+[01-Mar-2013 18:11:14] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel2007.php on line 36
+[02-Mar-2013 00:24:29] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel2007.php on line 36
+[03-Mar-2013 02:48:30] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/CSV.php on line 36
+[03-Mar-2013 02:50:38] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel2007.php on line 36
+[03-Mar-2013 02:55:04] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel5.php on line 36
+[03-Mar-2013 07:47:27] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/HTML.php on line 36
+[03-Mar-2013 13:09:03] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/CSV.php on line 36
+[03-Mar-2013 13:14:22] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel2007.php on line 36
+[03-Mar-2013 13:26:31] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel5.php on line 36
+[03-Mar-2013 17:26:49] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/CSV.php on line 36
+[03-Mar-2013 17:27:16] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel2007.php on line 36
+[03-Mar-2013 18:23:47] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/HTML.php on line 36
+[05-Mar-2013 20:57:19] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/CSV.php on line 36
+[07-Mar-2013 23:23:01] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/CSV.php on line 36
+[07-Mar-2013 23:32:39] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel2007.php on line 36
+[07-Mar-2013 23:53:49] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel5.php on line 36
+[12-Mar-2013 01:52:59] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel2007.php on line 36
+[12-Mar-2013 02:24:51] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/HTML.php on line 36
+[12-Mar-2013 09:14:25] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel2007.php on line 36
+[12-Mar-2013 09:44:34] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/HTML.php on line 36
+[12-Oct-2015 15:19:39 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/CSV.php on line 36
+[12-Oct-2015 15:28:26 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/HTML.php on line 36
+[12-Oct-2015 15:34:04 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel5.php on line 37
+[12-Oct-2015 15:56:34 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel2007.php on line 37
+[13-Oct-2015 00:04:06 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/HTML.php on line 36
+[13-Oct-2015 00:04:34 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel5.php on line 37
+[13-Oct-2015 00:05:29 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel2007.php on line 37
+[13-Oct-2015 03:11:03 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/CSV.php on line 36
+[13-Oct-2015 06:55:53 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/HTML.php on line 36
+[13-Oct-2015 06:56:29 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel5.php on line 37
+[13-Oct-2015 06:56:42 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel2007.php on line 37
+[13-Oct-2015 09:10:14 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/CSV.php on line 36
+[13-Oct-2015 12:16:25 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/HTML.php on line 36
+[13-Oct-2015 12:22:47 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel5.php on line 37
+[13-Oct-2015 12:30:55 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/Excel2007.php on line 37
+[13-Oct-2015 15:20:32 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/CSV.php on line 36

@@ -1,0 +1,218 @@
+[01-Mar-2013 10:34:19] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[01-Mar-2013 11:20:12] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[01-Mar-2013 13:01:02] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[01-Mar-2013 13:25:45] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[01-Mar-2013 13:26:13] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[01-Mar-2013 13:40:54] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[01-Mar-2013 14:03:49] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36
+[01-Mar-2013 15:43:54] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[01-Mar-2013 15:54:27] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[01-Mar-2013 16:18:08] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[01-Mar-2013 17:13:20] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[01-Mar-2013 19:17:14] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[01-Mar-2013 19:24:19] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[01-Mar-2013 19:38:59] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[01-Mar-2013 23:52:36] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[02-Mar-2013 00:08:49] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[02-Mar-2013 00:29:12] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[02-Mar-2013 00:45:17] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[02-Mar-2013 01:01:07] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[02-Mar-2013 01:32:45] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[02-Mar-2013 02:40:08] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[02-Mar-2013 02:43:29] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[02-Mar-2013 02:50:32] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36
+[02-Mar-2013 02:57:37] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[02-Mar-2013 03:04:49] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[02-Mar-2013 03:05:33] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[02-Mar-2013 05:38:06] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[02-Mar-2013 06:03:42] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[02-Mar-2013 06:29:05] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[02-Mar-2013 08:45:02] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[02-Mar-2013 09:11:59] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php on line 36
+[02-Mar-2013 10:28:43] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[02-Mar-2013 11:41:37] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[02-Mar-2013 11:44:36] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[02-Mar-2013 11:48:19] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[02-Mar-2013 12:10:42] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[02-Mar-2013 12:37:59] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[02-Mar-2013 12:44:06] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[02-Mar-2013 12:49:30] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[02-Mar-2013 13:12:17] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[02-Mar-2013 13:47:18] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[02-Mar-2013 13:59:25] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36
+[02-Mar-2013 14:33:40] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[02-Mar-2013 19:29:09] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[02-Mar-2013 20:27:17] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[03-Mar-2013 05:42:16] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[03-Mar-2013 05:54:55] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[03-Mar-2013 06:00:18] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[03-Mar-2013 06:55:03] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[03-Mar-2013 07:12:56] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[03-Mar-2013 07:24:46] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[03-Mar-2013 07:25:05] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36
+[03-Mar-2013 07:30:33] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php on line 36
+[03-Mar-2013 12:47:09] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[03-Mar-2013 12:51:11] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[03-Mar-2013 13:04:59] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[03-Mar-2013 15:19:25] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[03-Mar-2013 15:50:18] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[03-Mar-2013 15:55:33] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[03-Mar-2013 16:43:37] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[03-Mar-2013 16:45:46] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[03-Mar-2013 16:46:09] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[03-Mar-2013 16:55:11] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[03-Mar-2013 17:04:27] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36
+[03-Mar-2013 21:47:43] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[03-Mar-2013 22:06:24] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[03-Mar-2013 22:22:19] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[04-Mar-2013 00:43:54] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[04-Mar-2013 00:59:15] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[04-Mar-2013 01:21:22] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[04-Mar-2013 01:23:27] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[04-Mar-2013 01:37:48] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[04-Mar-2013 02:15:36] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[04-Mar-2013 03:01:38] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[04-Mar-2013 04:06:28] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[04-Mar-2013 05:44:37] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[04-Mar-2013 06:27:58] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36
+[04-Mar-2013 09:24:10] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[04-Mar-2013 09:41:19] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[04-Mar-2013 09:48:47] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[04-Mar-2013 12:51:21] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[04-Mar-2013 17:10:34] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[04-Mar-2013 21:20:54] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[04-Mar-2013 22:08:13] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[04-Mar-2013 22:41:57] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[04-Mar-2013 22:47:24] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[04-Mar-2013 23:03:33] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[05-Mar-2013 00:26:01] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[05-Mar-2013 00:26:34] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36
+[05-Mar-2013 01:03:40] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php on line 36
+[05-Mar-2013 03:37:42] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[05-Mar-2013 05:01:08] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[05-Mar-2013 05:01:11] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[05-Mar-2013 12:11:03] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[05-Mar-2013 12:50:19] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[05-Mar-2013 14:03:51] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[05-Mar-2013 18:17:03] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[05-Mar-2013 19:22:08] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[05-Mar-2013 21:09:40] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[05-Mar-2013 21:20:40] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[05-Mar-2013 22:04:45] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[05-Mar-2013 22:31:48] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[05-Mar-2013 23:59:39] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[06-Mar-2013 08:13:03] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[06-Mar-2013 16:55:41] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[06-Mar-2013 18:04:31] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[06-Mar-2013 23:39:14] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[07-Mar-2013 08:20:26] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[07-Mar-2013 16:01:23] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[07-Mar-2013 16:41:53] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[07-Mar-2013 17:37:51] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[07-Mar-2013 18:32:29] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[07-Mar-2013 19:40:33] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[07-Mar-2013 20:02:57] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[07-Mar-2013 21:30:41] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[07-Mar-2013 23:20:39] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[07-Mar-2013 23:54:53] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[07-Mar-2013 23:55:55] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[07-Mar-2013 23:56:57] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[08-Mar-2013 00:20:03] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[08-Mar-2013 04:01:42] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[08-Mar-2013 06:00:03] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[08-Mar-2013 06:03:42] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[08-Mar-2013 07:12:32] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[08-Mar-2013 12:46:50] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[08-Mar-2013 13:21:26] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[08-Mar-2013 15:05:18] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[08-Mar-2013 16:00:44] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[08-Mar-2013 17:31:41] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[08-Mar-2013 19:06:27] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[08-Mar-2013 20:12:12] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[09-Mar-2013 04:49:56] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[09-Mar-2013 09:35:46] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[09-Mar-2013 09:57:59] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[09-Mar-2013 11:38:03] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[09-Mar-2013 13:21:16] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[09-Mar-2013 14:24:36] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[09-Mar-2013 15:15:09] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[09-Mar-2013 17:29:20] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[09-Mar-2013 18:21:22] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[09-Mar-2013 20:25:18] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[09-Mar-2013 20:57:31] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[09-Mar-2013 23:32:45] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[10-Mar-2013 01:00:38] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[10-Mar-2013 02:33:05] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[10-Mar-2013 07:32:45] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[10-Mar-2013 10:33:26] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[11-Mar-2013 05:56:32] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[11-Mar-2013 16:07:05] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[12-Mar-2013 01:02:15] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[12-Mar-2013 03:13:29] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[12-Mar-2013 11:29:43] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[12-Mar-2013 12:03:44] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[12-Mar-2013 12:09:41] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[12-Mar-2013 12:50:12] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[12-Mar-2013 12:51:49] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36
+[12-Mar-2013 12:59:56] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php on line 36
+[12-Mar-2013 18:38:51] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[12-Mar-2013 18:53:42] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[12-Mar-2013 18:55:50] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[12-Mar-2013 21:36:49] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[12-Mar-2013 21:40:28] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36
+[12-Mar-2013 21:47:42] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php on line 36
+[13-Mar-2013 03:18:05] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[13-Mar-2013 03:20:04] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[13-Mar-2013 03:22:03] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[13-Mar-2013 03:24:41] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[13-Mar-2013 10:20:34] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[13-Mar-2013 13:31:26] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[13-Mar-2013 14:48:28] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[13-Mar-2013 14:58:32] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[13-Mar-2013 15:02:36] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[13-Mar-2013 15:09:40] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36
+[13-Mar-2013 15:20:41] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php on line 36
+[11-Oct-2015 12:39:54 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[11-Oct-2015 12:57:42 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[11-Oct-2015 12:58:04 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[11-Oct-2015 12:58:35 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[11-Oct-2015 12:59:40 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php on line 36
+[11-Oct-2015 13:00:17 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[11-Oct-2015 13:02:43 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[11-Oct-2015 13:04:55 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[11-Oct-2015 13:05:18 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[11-Oct-2015 13:07:51 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[11-Oct-2015 13:08:20 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36
+[11-Oct-2015 20:24:20 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[11-Oct-2015 20:26:55 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[11-Oct-2015 20:27:13 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[11-Oct-2015 20:27:43 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[11-Oct-2015 20:28:10 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php on line 36
+[11-Oct-2015 20:29:01 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[11-Oct-2015 20:29:22 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[11-Oct-2015 20:29:38 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[11-Oct-2015 20:29:54 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[11-Oct-2015 20:32:08 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[11-Oct-2015 20:33:59 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36
+[12-Oct-2015 02:42:50 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[12-Oct-2015 02:44:56 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[12-Oct-2015 02:45:17 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[12-Oct-2015 02:46:28 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[12-Oct-2015 02:48:36 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php on line 36
+[12-Oct-2015 02:49:25 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[12-Oct-2015 02:52:16 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[12-Oct-2015 02:54:22 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[12-Oct-2015 02:56:36 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[12-Oct-2015 02:56:55 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[12-Oct-2015 02:58:02 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36
+[12-Oct-2015 09:03:43 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/APC.php on line 36
+[12-Oct-2015 09:05:26 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[12-Oct-2015 09:07:14 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[12-Oct-2015 09:07:32 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[12-Oct-2015 09:10:33 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php on line 36
+[12-Oct-2015 09:12:16 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[12-Oct-2015 09:16:14 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[12-Oct-2015 09:18:25 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[12-Oct-2015 09:18:38 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[12-Oct-2015 09:25:44 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[12-Oct-2015 09:28:07 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36

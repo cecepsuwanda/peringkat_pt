@@ -1,0 +1,29 @@
+[27-Feb-2013 13:37:57] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[27-Feb-2013 21:45:44] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[28-Feb-2013 08:52:01] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[28-Feb-2013 15:40:47] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[02-Mar-2013 05:11:13] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/TextElement.php on line 34
+[02-Mar-2013 11:49:22] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[02-Mar-2013 12:17:25] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/TextElement.php on line 34
+[02-Mar-2013 19:34:54] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[02-Mar-2013 20:45:30] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/TextElement.php on line 34
+[03-Mar-2013 05:50:04] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[03-Mar-2013 06:28:22] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/TextElement.php on line 34
+[03-Mar-2013 12:49:22] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[04-Mar-2013 09:50:47] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[04-Mar-2013 11:12:53] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/TextElement.php on line 34
+[04-Mar-2013 19:57:40] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[04-Mar-2013 20:11:49] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/TextElement.php on line 34
+[09-Mar-2013 02:02:54] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[09-Mar-2013 05:17:33] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/TextElement.php on line 34
+[09-Mar-2013 11:28:56] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[09-Mar-2013 18:52:02] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[09-Mar-2013 20:22:49] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/TextElement.php on line 34
+[10-Mar-2013 03:53:26] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[13-Oct-2015 00:32:34 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[13-Oct-2015 12:38:32 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/TextElement.php on line 35
+[13-Oct-2015 18:21:06 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/TextElement.php on line 35
+[13-Oct-2015 20:45:58 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/Run.php on line 34
+[14-Oct-2015 00:23:21 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/TextElement.php on line 35
+[14-Oct-2015 06:23:05 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/TextElement.php on line 35
+[14-Oct-2015 20:17:41 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText/TextElement.php on line 35

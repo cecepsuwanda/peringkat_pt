@@ -1,0 +1,54 @@
+[01-Mar-2013 04:55:44] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing.php on line 36
+[01-Mar-2013 17:42:49] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing.php on line 36
+[02-Mar-2013 02:46:22] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing.php on line 36
+[02-Mar-2013 11:34:34] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/BaseDrawing.php on line 36
+[03-Mar-2013 01:40:31] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/BaseDrawing.php on line 36
+[03-Mar-2013 02:27:01] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing.php on line 36
+[03-Mar-2013 02:35:05] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[03-Mar-2013 02:36:45] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/MemoryDrawing.php on line 36
+[03-Mar-2013 10:39:17] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/BaseDrawing.php on line 36
+[03-Mar-2013 12:09:09] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing.php on line 36
+[03-Mar-2013 12:10:58] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[03-Mar-2013 12:15:19] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/MemoryDrawing.php on line 36
+[03-Mar-2013 19:45:41] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing.php on line 36
+[03-Mar-2013 20:26:26] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[03-Mar-2013 20:37:09] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/MemoryDrawing.php on line 36
+[05-Mar-2013 12:06:09] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[05-Mar-2013 19:02:10] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[05-Mar-2013 19:32:49] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/MemoryDrawing.php on line 36
+[06-Mar-2013 04:34:35] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[07-Mar-2013 14:17:10] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[07-Mar-2013 16:18:11] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/MemoryDrawing.php on line 36
+[07-Mar-2013 23:16:36] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[08-Mar-2013 00:07:02] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/MemoryDrawing.php on line 36
+[08-Mar-2013 09:56:46] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[08-Mar-2013 12:21:50] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/MemoryDrawing.php on line 36
+[11-Mar-2013 16:19:59] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[11-Mar-2013 16:40:28] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/MemoryDrawing.php on line 36
+[12-Mar-2013 01:08:10] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[12-Mar-2013 01:27:06] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/MemoryDrawing.php on line 36
+[12-Mar-2013 03:25:22] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[12-Mar-2013 06:09:04] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/BaseDrawing.php on line 36
+[12-Mar-2013 06:46:15] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing.php on line 36
+[12-Mar-2013 09:26:51] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[12-Mar-2013 09:31:04] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/MemoryDrawing.php on line 36
+[12-Mar-2013 15:39:16] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[13-Mar-2013 13:53:28] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/BaseDrawing.php on line 36
+[13-Mar-2013 22:47:24] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/BaseDrawing.php on line 36
+[14-Mar-2013 06:43:08] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/BaseDrawing.php on line 36
+[14-Mar-2013 12:31:35] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/BaseDrawing.php on line 36
+[12-Oct-2015 06:30:07 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing.php on line 36
+[12-Oct-2015 14:10:29 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing.php on line 36
+[12-Oct-2015 16:04:26 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/BaseDrawing.php on line 37
+[12-Oct-2015 16:25:38 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/MemoryDrawing.php on line 36
+[12-Oct-2015 16:54:54 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[13-Oct-2015 00:39:28 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/BaseDrawing.php on line 37
+[13-Oct-2015 00:42:24 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/MemoryDrawing.php on line 36
+[13-Oct-2015 00:49:39 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[13-Oct-2015 06:56:54 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/BaseDrawing.php on line 37
+[13-Oct-2015 06:57:19 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/MemoryDrawing.php on line 36
+[13-Oct-2015 06:57:40 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36
+[13-Oct-2015 12:01:08 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing.php on line 36
+[13-Oct-2015 12:41:30 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/BaseDrawing.php on line 37
+[13-Oct-2015 12:42:17 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Worksheet_BaseDrawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/MemoryDrawing.php on line 36
+[13-Oct-2015 12:52:48 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Worksheet_Drawing' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php on line 36

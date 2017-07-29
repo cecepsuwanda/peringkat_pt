@@ -1,0 +1,89 @@
+[25-Feb-2013 22:38:46] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 36
+[25-Feb-2013 23:10:45] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[26-Feb-2013 01:51:22] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 36
+[26-Feb-2013 04:11:28] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 36
+[26-Feb-2013 06:21:19] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 36
+[26-Feb-2013 06:45:01] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[26-Feb-2013 08:21:50] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 36
+[26-Feb-2013 08:34:38] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[26-Feb-2013 09:12:07] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 36
+[26-Feb-2013 09:25:17] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[26-Feb-2013 12:37:52] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 36
+[26-Feb-2013 12:59:45] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 36
+[26-Feb-2013 17:48:24] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 36
+[26-Feb-2013 18:05:24] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[26-Feb-2013 18:06:04] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[26-Feb-2013 20:11:47] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 36
+[26-Feb-2013 20:22:34] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[26-Feb-2013 21:09:53] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 36
+[26-Feb-2013 21:42:03] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 36
+[27-Feb-2013 00:08:05] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 36
+[27-Feb-2013 00:52:34] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 36
+[27-Feb-2013 02:59:45] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[27-Feb-2013 05:51:14] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[01-Mar-2013 10:01:07] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[01-Mar-2013 18:44:49] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[01-Mar-2013 22:42:53] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[02-Mar-2013 05:30:10] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[02-Mar-2013 07:09:47] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[02-Mar-2013 09:34:44] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 36
+[02-Mar-2013 12:29:41] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[02-Mar-2013 15:23:19] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 36
+[02-Mar-2013 18:40:22] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 36
+[02-Mar-2013 21:11:52] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 36
+[03-Mar-2013 01:25:26] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 36
+[03-Mar-2013 01:58:33] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 36
+[03-Mar-2013 02:17:46] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[03-Mar-2013 03:38:47] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 36
+[03-Mar-2013 04:21:56] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[03-Mar-2013 05:02:47] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 36
+[03-Mar-2013 06:38:30] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 36
+[03-Mar-2013 06:52:30] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 36
+[03-Mar-2013 09:38:27] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 36
+[03-Mar-2013 10:35:57] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 36
+[03-Mar-2013 12:20:31] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[03-Mar-2013 12:27:31] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 36
+[03-Mar-2013 15:41:14] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 36
+[03-Mar-2013 19:18:03] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 36
+[03-Mar-2013 19:19:34] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[04-Mar-2013 03:26:05] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[04-Mar-2013 08:48:06] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[04-Mar-2013 08:58:40] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 36
+[04-Mar-2013 18:52:44] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[04-Mar-2013 19:34:25] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 36
+[04-Mar-2013 20:55:55] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[04-Mar-2013 21:54:37] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[05-Mar-2013 01:59:54] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 36
+[05-Mar-2013 04:36:17] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[05-Mar-2013 06:20:29] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 36
+[05-Mar-2013 06:36:08] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[05-Mar-2013 07:33:07] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[05-Mar-2013 14:31:41] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[06-Mar-2013 01:08:35] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[06-Mar-2013 17:34:55] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[06-Mar-2013 18:25:02] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 36
+[07-Mar-2013 01:28:21] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[07-Mar-2013 05:41:21] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 36
+[07-Mar-2013 12:39:17] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 36
+[12-Mar-2013 03:58:23] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 36
+[30-Sep-2015 00:53:24 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 37
+[01-Oct-2015 05:15:37 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[03-Oct-2015 16:41:57 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Shared_ZipStreamWrapper' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Autoloader.php on line 31
+[04-Oct-2015 08:16:32 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 37
+[04-Oct-2015 08:47:37 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 37
+[04-Oct-2015 09:08:35 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 37
+[04-Oct-2015 09:20:07 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 37
+[04-Oct-2015 14:45:51 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 37
+[04-Oct-2015 14:47:12 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 37
+[04-Oct-2015 14:51:35 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 37
+[04-Oct-2015 20:55:06 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 37
+[04-Oct-2015 21:01:10 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 37
+[04-Oct-2015 21:09:55 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 37
+[04-Oct-2015 21:33:09 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 37
+[05-Oct-2015 02:59:03 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 37
+[05-Oct-2015 03:11:01 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 37
+[05-Oct-2015 03:13:33 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 37
+[05-Oct-2015 05:47:28 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet.php on line 37
+[05-Oct-2015 08:44:23 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Style.php on line 37
+[06-Oct-2015 02:02:34 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Comment.php on line 37
+[06-Oct-2015 03:11:52 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/RichText.php on line 37

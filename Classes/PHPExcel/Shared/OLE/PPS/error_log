@@ -1,0 +1,39 @@
+[07-Mar-2013 16:51:07] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 30
+[08-Mar-2013 06:07:56] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 30
+[08-Mar-2013 12:51:02] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 30
+[08-Mar-2013 20:17:48] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[09-Mar-2013 03:46:33] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[09-Mar-2013 13:07:18] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[09-Mar-2013 15:19:48] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[10-Mar-2013 00:44:43] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[12-Mar-2013 04:07:18] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[12-Mar-2013 05:53:38] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 30
+[12-Mar-2013 13:35:34] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[12-Mar-2013 13:58:48] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 30
+[13-Mar-2013 15:26:00] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[13-Mar-2013 15:36:24] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 30
+[14-Mar-2013 00:44:42] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[14-Mar-2013 05:39:52] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 30
+[14-Mar-2013 08:00:12] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[14-Mar-2013 15:11:12] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 30
+[15-Mar-2013 13:05:01] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[15-Mar-2013 13:27:15] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 30
+[16-Mar-2013 05:22:00] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[16-Mar-2013 05:28:00] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 30
+[16-Mar-2013 13:01:00] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[16-Mar-2013 13:04:26] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 30
+[17-Mar-2013 15:53:43] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[17-Mar-2013 23:21:16] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[18-Mar-2013 07:06:06] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[18-Mar-2013 10:07:44] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[18-Mar-2013 14:54:51] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[15-Oct-2015 03:51:18 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 31
+[15-Oct-2015 04:08:58 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 31
+[15-Oct-2015 09:41:24 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 31
+[15-Oct-2015 09:52:38 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 31
+[15-Oct-2015 15:22:53 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 31
+[15-Oct-2015 16:07:43 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 31
+[15-Oct-2015 21:15:39 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 31
+[15-Oct-2015 21:28:06 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 31
+[16-Oct-2015 03:13:04 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 31
+[16-Oct-2015 11:25:44 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Shared/OLE/PPS/File.php on line 31

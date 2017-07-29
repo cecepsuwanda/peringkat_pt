@@ -1,0 +1,11 @@
+[02-Mar-2013 05:22:23] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Chart/Renderer/jpgraph.php on line 30
+[02-Mar-2013 11:58:50] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Chart/Renderer/jpgraph.php on line 30
+[02-Mar-2013 18:26:56] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Chart/Renderer/jpgraph.php on line 30
+[03-Mar-2013 07:21:34] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Chart/Renderer/jpgraph.php on line 30
+[09-Mar-2013 13:41:22] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Chart/Renderer/jpgraph.php on line 30
+[09-Mar-2013 22:42:31] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Chart/Renderer/jpgraph.php on line 30
+[14-Oct-2015 12:37:21 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Chart/Renderer/jpgraph.php on line 30
+[14-Oct-2015 18:16:52 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Chart/Renderer/jpgraph.php on line 30
+[15-Oct-2015 00:23:34 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Chart/Renderer/jpgraph.php on line 30
+[15-Oct-2015 05:57:36 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Chart/Renderer/jpgraph.php on line 30
+[16-Oct-2015 03:48:55 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Chart/Renderer/jpgraph.php on line 30

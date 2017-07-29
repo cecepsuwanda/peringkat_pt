@@ -1,0 +1,8 @@
+[03-Mar-2013 02:36:46] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing/Shadow.php on line 36
+[05-Mar-2013 06:06:54] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing/Shadow.php on line 36
+[12-Mar-2013 02:00:40] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing/Shadow.php on line 36
+[12-Mar-2013 09:35:39] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing/Shadow.php on line 36
+[12-Mar-2013 18:52:41] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing/Shadow.php on line 36
+[13-Oct-2015 13:44:08 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing/Shadow.php on line 37
+[14-Oct-2015 01:32:14 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing/Shadow.php on line 37
+[14-Oct-2015 21:00:54 Asia/Jakarta] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Worksheet/Drawing/Shadow.php on line 37

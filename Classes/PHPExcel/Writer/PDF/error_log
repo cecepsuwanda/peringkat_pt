@@ -1,0 +1,48 @@
+[03-Mar-2013 16:41:17] PHP Fatal error:  Class 'PHPExcel_Writer_HTML' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/Core.php on line 36
+[03-Mar-2013 19:53:20] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[04-Mar-2013 00:51:11] PHP Fatal error:  Class 'PHPExcel_Writer_HTML' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/Core.php on line 36
+[04-Mar-2013 03:21:26] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[04-Mar-2013 08:03:03] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/tcPDF.php on line 30
+[04-Mar-2013 08:43:50] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[04-Mar-2013 09:15:45] PHP Fatal error:  Class 'PHPExcel_Writer_HTML' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/Core.php on line 36
+[04-Mar-2013 09:55:44] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[04-Mar-2013 15:02:53] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[04-Mar-2013 16:43:41] PHP Fatal error:  Class 'PHPExcel_Writer_HTML' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/Core.php on line 36
+[04-Mar-2013 17:06:54] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/tcPDF.php on line 30
+[04-Mar-2013 17:21:05] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[04-Mar-2013 19:45:32] PHP Fatal error:  Class 'PHPExcel_Writer_HTML' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/Core.php on line 36
+[04-Mar-2013 20:50:03] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[05-Mar-2013 00:25:31] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[05-Mar-2013 02:07:24] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/tcPDF.php on line 30
+[05-Mar-2013 06:27:39] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[05-Mar-2013 07:30:05] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[05-Mar-2013 09:09:10] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/tcPDF.php on line 30
+[12-Mar-2013 17:55:50] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[12-Mar-2013 18:40:27] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[12-Mar-2013 18:46:48] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/tcPDF.php on line 30
+[12-Mar-2013 19:50:27] PHP Fatal error:  Class 'PHPExcel_Writer_HTML' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/Core.php on line 36
+[13-Mar-2013 00:23:31] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[13-Mar-2013 03:17:43] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[13-Mar-2013 03:39:43] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/tcPDF.php on line 30
+[13-Mar-2013 03:40:19] PHP Fatal error:  Class 'PHPExcel_Writer_HTML' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/Core.php on line 36
+[13-Mar-2013 08:15:34] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[13-Mar-2013 14:13:07] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[13-Mar-2013 14:35:53] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/tcPDF.php on line 30
+[13-Mar-2013 17:37:28] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[14-Mar-2013 18:22:56] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[15-Mar-2013 01:14:57] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[15-Mar-2013 11:59:06] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[15-Mar-2013 17:25:29] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[12-Oct-2015 17:09:18 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Writer_HTML' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/Core.php on line 36
+[12-Oct-2015 17:09:32 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/tcPDF.php on line 30
+[13-Oct-2015 13:05:59 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Writer_HTML' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/Core.php on line 36
+[13-Oct-2015 13:06:11 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[13-Oct-2015 13:14:37 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/tcPDF.php on line 30
+[13-Oct-2015 13:16:23 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[13-Oct-2015 18:21:23 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[14-Oct-2015 00:40:23 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[14-Oct-2015 00:54:57 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[14-Oct-2015 06:25:18 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[14-Oct-2015 06:28:28 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[14-Oct-2015 20:23:52 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[14-Oct-2015 20:24:36 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/fmipaun/public_html/sia/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
