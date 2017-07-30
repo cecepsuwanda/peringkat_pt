@@ -62,11 +62,13 @@ $txt_tabel .= '</tfoot>';
  if(!empty($kdpt))
  {
    $txt_tabel .= '<tbody>';
+   //$dt=$kdpt[0];
    foreach ($kdpt as $dt) {
        
      $page = file_get_html("http://pemeringkatan.ristekdikti.go.id/index.php/pemeringkatan/hasil?cari=$dt");
      
      //echo $page;
+     
 	 $fail = $page->find('b[class="fail"]');
 
 	 if(!empty($fail)){
@@ -82,7 +84,7 @@ $txt_tabel .= '</tfoot>';
                        </tr>";
 	 }else{
 		     $txt_tabel .= "<tr><td>$dt</td>";
-		     $entry_tbnilai['thn']=2016;
+		     $entry_tbnilai['thn']=date("Y",strtotime("-1 year"));
 		     $entry_tbnilai['kd_pt']=$dt;
 
 		     $k=0;
